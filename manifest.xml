@@ -4,11 +4,11 @@
 <remote name="td" fetch="https://github.com/TrebleDroid/" />
 <remote name="github" fetch="https://github.com/" />
 
-<project path="device/phh/treble" name="device_phh_treble" remote="td" revision="android-14.0" />
+<project path="device/phh/treble" name="device_phh_treble" remote="td" revision="android-15.0" />
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="td" revision="pie" />
 
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
-<project path="vendor/interfaces" name="vendor_interfaces" remote="td" revision="android-14.0" />
+<project path="vendor/interfaces" name="vendor_interfaces" remote="td" revision="android-15.0" />
 <project path="vendor/lptools" name="vendor_lptools" remote="phh" revision="master" />
 
 
