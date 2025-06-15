@@ -12,8 +12,6 @@
   <remove-project name="device/linaro/dragonboard-kernel" />
   <remove-project name="device/linaro/hikey" />
   <remove-project name="device/linaro/hikey-kernel" />
-  <remove-project name="device/linaro/poplar" />
-  <remove-project name="device/linaro/poplar-kernel" />
   <remove-project name="platform/hardware/invensense" />
   <remove-project name="platform/hardware/nxp/keymint" />
   <remove-project name="platform/hardware/nxp/nfc" />
