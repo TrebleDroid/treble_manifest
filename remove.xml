@@ -3,9 +3,6 @@
   <remove-project name="device/amlogic/yukawa" />
   <remove-project name="device/amlogic/yukawa-kernel" />
   <remove-project name="device/generic/trusty" />
-  <remove-project name="device/google/akita" />
-  <remove-project name="device/google/akita-kernels/6.6" />
-  <remove-project name="device/google/akita-sepolicy" />
   <remove-project name="device/google/atv" />
   <remove-project name="device/google/bluejay" />
   <remove-project name="device/google/bluejay-kernels/6.6" />
