@@ -84,6 +84,4 @@
 <remove-project name="platform/packages/modules/DnsResolver" />
 <project path="packages/modules/DnsResolver" name="platform_packages_modules_DnsResolver" remote="td" revision="android-16.0.0_r1-td" />
 
-<remove-project name="platform/prebuilts/vndk/v29" />
-<project path="prebuilts/vndk/v29" name="platform_prebuilts_vndk_v29" remote="td" revision="android-16.0.0_r1-td" clone-depth="1"/>
 </manifest>
